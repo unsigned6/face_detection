@@ -1,0 +1,17 @@
+{
+  "name": "face_detection",
+  "version": "1.0.0",
+  "description": "opencv face detection",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "fs-extra": "^7.0.0",
+    "gm": "^1.23.1",
+    "opencv4nodejs": "^4.7.2"
+  }
+}
